@@ -68,8 +68,14 @@
     :shipit: Full-stack 
     :shipit: Founder 
   </div>
-
 </div>
+
+<br/>
+<br/>
+
+<br/>
+
+<br/>
 
 
 <div>
