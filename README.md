@@ -67,5 +67,5 @@
 :shipit: Founder 
 
 <a target="_blank" href="https://github.com/cszach/Raydiance">
-## Link source 
+Link source 
 <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
