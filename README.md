@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<div display="flex">
+<div display="flex" gap="500">
   <img align="left" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
   ### My Absolute Favorites:
