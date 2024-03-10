@@ -1,4 +1,4 @@
-### Talking about Personal Stuff:
+### Giới thiệu dự án
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
