@@ -78,7 +78,7 @@
 <br/>
 
 
-<div>
+<div width="100%">
   <span>
     ➡️ Link source 
   <span>
