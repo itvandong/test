@@ -9,7 +9,7 @@
       </td>
       <td>
         <a target="_blank" href="https://cszach.github.io/synthwave-drive">
-          <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+          <img width="500" height="300" alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
         </a>
       </td>
     </tr>
@@ -20,12 +20,12 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/cszach/LastPlayed">
-          <img alt="LastPlayed" src="img/projects/lastplayed.png" />
+          <img width="500" height="300" alt="LastPlayed" src="img/projects/lastplayed.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/cszach/Trailblazer">
-          <img alt="Trailblazer" src="img/projects/trailblazer.png" />
+          <img width="500" height="300" alt="Trailblazer" src="img/projects/trailblazer.png" />
         </a>
       </td>
     </tr>
@@ -36,12 +36,12 @@
     <tr>
       <td>
         <a target="_blank" href="https://cszach.github.io/three.js-sketches">
-          <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
+          <img width="500" height="300" alt="Three.js sketches" src="img/projects/threejs.jpg" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://cszach.github.io/designs">
-          <img alt="Design portfolio" src="img/projects/web design.jpg" />
+          <img width="500" height="300" alt="Design portfolio" src="img/projects/web design.jpg" />
         </a>
       </td>
     </tr>
