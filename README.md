@@ -59,16 +59,13 @@
 
 <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
-:shipit: CS + Systems Research Fellow @ [**University of Rochester**][ur]  
-:shipit: Vice President @ [**Computer Science Undergraduate Council**][csug]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: ex-Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
+:shipit: CS + Systems Research Fellow 
+:shipit: Vice President 
+:shipit: Student Member 
+:shipit: ex-Android 
+:shipit: Full-stack 
+:shipit: Founder 
 
-[ur]: https://rochester.edu
-[csug]: https://ur-csug.org
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
-[42tm]: https://github.com/42tm
+<a target="_blank" href="https://github.com/cszach/Raydiance">
+## Link source 
+<a target="_blank" href="https://github.com/cszach/Raydiance">
