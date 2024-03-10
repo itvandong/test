@@ -66,6 +66,10 @@
 :shipit: Full-stack 
 :shipit: Founder 
 
-<a target="_blank" href="https://github.com/cszach/Raydiance">
+
+<span>
 Link source 
+</span>
+
+
 <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
