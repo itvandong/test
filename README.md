@@ -68,10 +68,9 @@
 
 
 <span>
-Link source 
+➡️ Link source 
   <span>
-<a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
-    
+    <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
   </span>
 </span>
 
